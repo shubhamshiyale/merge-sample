@@ -1,5 +1,2 @@
 this is file1.txt from master
-updated version
-update again
-sonu-pal
-hello
+
